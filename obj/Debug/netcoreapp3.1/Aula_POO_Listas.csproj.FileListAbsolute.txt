@@ -1,0 +1,13 @@
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\bin\Debug\netcoreapp3.1\Aula_POO_Listas.exe
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\bin\Debug\netcoreapp3.1\Aula_POO_Listas.deps.json
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\bin\Debug\netcoreapp3.1\Aula_POO_Listas.runtimeconfig.json
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\bin\Debug\netcoreapp3.1\Aula_POO_Listas.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\bin\Debug\netcoreapp3.1\Aula_POO_Listas.dll
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\bin\Debug\netcoreapp3.1\Aula_POO_Listas.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\obj\Debug\netcoreapp3.1\Aula_POO_Listas.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\obj\Debug\netcoreapp3.1\Aula_POO_Listas.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\obj\Debug\netcoreapp3.1\Aula_POO_Listas.AssemblyInfo.cs
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\obj\Debug\netcoreapp3.1\Aula_POO_Listas.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\obj\Debug\netcoreapp3.1\Aula_POO_Listas.dll
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\obj\Debug\netcoreapp3.1\Aula_POO_Listas.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Aula_POO_Listas\obj\Debug\netcoreapp3.1\Aula_POO_Listas.genruntimeconfig.cache
